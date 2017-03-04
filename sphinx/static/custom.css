@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu Mono';
 }
 
 dl.option dt {
@@ -13,4 +13,7 @@ dl.option dt {
 
 dl.glossary dt {
   font-size: 1em;
+}
+h1 {
+  margin: calc;
 }
