@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 
 body {
-  font-family: 'Ubuntu Mono';
+  font-family: 'Ubuntu Mono' !important;
 }
 
 dl.option dt {
@@ -15,5 +15,5 @@ dl.glossary dt {
   font-size: 1em;
 }
 h1 {
-  margin: calc;
+  margin: 10px;
 }
